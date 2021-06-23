@@ -1,3 +1,6 @@
+<img src="Stain_of_Guilt.png" alt="Logo" title = "Logo" align="right" />
+
+
 # Crestoria-Upscaled-Images
 ## About
 This repository contains 4x upscaled images from the mobile game [Tales of Crestoria](https://crestoria-en.tales-ch.jp/index.php). To create these, I used the tool [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) with the following settings:
