@@ -3,6 +3,9 @@
 
 # Crestoria-Upscaled-Images
 ## About
+
+**Warning:** Images from the `Story` folder *will contain spoilers*. Proceed at your own risk.
+
 This repository contains 4x upscaled images from the mobile game [Tales of Crestoria](https://crestoria-en.tales-ch.jp/index.php). To create these, I used the tool [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) with the following settings:
 * Conversion mode: Denoise & Magnify
 * Denoise level: Level 3
@@ -16,7 +19,7 @@ I would like to give credit to [this Reddit thread](https://www.reddit.com/r/Tal
 
 None of these images are mine, and all credit goes to Bandi Namco.
 ## Contributing
-To contribute to this project, you can either create an issue under the "Issues" tab for missing arts, or if you decide to download the tool yourself to convert the images yourself, you can fork the repository and create a pull request. Please make sure that the art goes in the correct folder, and you add the original in the Originals folder.
+To contribute to this project on Github, you can either create an issue under the "Issues" tab for missing arts, or if you decide to download the tool yourself to convert the images yourself, you can fork the repository and create a pull request. Please make sure that the art goes in the correct folder, and you add the original in the Originals folder.
 ## Q & A
 Q: Why did you host this on Github instead of an image sharing site?
 
